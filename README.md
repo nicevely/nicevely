@@ -19,6 +19,16 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](nicollyevelysantosrodriguesnic@gmail.com)
 
 
+<h3 align="left">My Stack ~</h3>
+
+<div align="left">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
+  <img width="8" />
+</div>
+
+
+
 
 <!--
 **nicevely/nicevely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
