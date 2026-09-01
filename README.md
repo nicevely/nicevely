@@ -25,7 +25,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <div align="left">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
-  <img scr="https://share.google/EoKjG8VkwSFOzfzY0" height="25" alt="HTML logo" />
+  <img width="8" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
   <img width="8" />
 </div>
 
